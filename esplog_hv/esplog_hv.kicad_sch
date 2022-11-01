@@ -2291,7 +2291,7 @@
     (in_bom yes) (on_board yes)
     (uuid b0061c6b-e8c7-4f80-b07f-9febe7a410d4)
     (property "Reference" "C3" (id 0) (at 93.98 134.62 90))
-    (property "Value" "100n" (id 1) (at 88.9 134.62 90))
+    (property "Value" "1u" (id 1) (at 88.9 134.62 90))
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 95.25 136.1948 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2545,7 +2545,7 @@
       (reference "C2") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/b0061c6b-e8c7-4f80-b07f-9febe7a410d4"
-      (reference "C3") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C3") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/9814b1e2-94b2-4a42-b7b9-8afdf2af0d80"
       (reference "C4") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
