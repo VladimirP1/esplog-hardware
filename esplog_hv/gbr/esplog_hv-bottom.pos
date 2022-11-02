@@ -1,0 +1,8 @@
+### Module positions - created on Wed 02 Nov 2022 10:47:24 AM MSK ###
+### Printed by Pcbnew version 6.0.8
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                   PosX       PosY       Rot  Side
+D2        LED       LED_0603_1608Metric   -90.1700   -62.2300  -90.0000  bottom
+SW1       SW_Push   SW_SPST_PTS810        -87.9012   -57.7772   90.0000  bottom
+## End

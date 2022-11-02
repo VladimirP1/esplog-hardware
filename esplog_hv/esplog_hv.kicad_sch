@@ -2405,7 +2405,7 @@
     (property "Reference" "L1" (id 0) (at 106.68 96.5199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "L" (id 1) (at 106.68 99.0599 0)
+    (property "Value" "2n" (id 1) (at 106.68 99.0599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Inductor_SMD:L_0402_1005Metric" (id 2) (at 105.41 97.79 0)
@@ -2587,7 +2587,7 @@
       (reference "IC1") (unit 1) (value "RY8310") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/f9db7adc-2b80-427e-97c0-1d4030176bd0"
-      (reference "L1") (unit 1) (value "L") (footprint "Inductor_SMD:L_0402_1005Metric")
+      (reference "L1") (unit 1) (value "2n") (footprint "Inductor_SMD:L_0402_1005Metric")
     )
     (path "/8aeb65d0-734a-412b-b050-0bba5aff695f"
       (reference "L2") (unit 1) (value "VLS3012HBX-4R7M") (footprint "tdk_inductor:VLS3012")

@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C9,C4,C8,C6,C12";"C_0402_1005Metric";5;"100n";;;
+2;"C2,C1";"C_0402_1005Metric";2;"10p";;;
+3;"R3,R4,R1";"R_0402_1005Metric";3;"10k";;;
+4;"U1";"QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm";1;"ESP32-C3";;;
+5;"R2";"R_0402_1005Metric";1;"31.6k";;;
+6;"L1";"L_0402_1005Metric";1;"2n";;;
+7;"IC1";"SOT-23-6";1;"RY8310";;;
+8;"C7";"C_0603_1608Metric";1;"22u";;;
+9;"C11,C14,C13";"C_0603_1608Metric";3;"4.7u";;;
+10;"U2";"Bosch_LGA-14_3x2.5mm_P0.5mm";1;"BMI160";;;
+11;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"40M";;;
+12;"C3";"C_0402_1005Metric";1;"1u";;;
+13;"L2";"VLS3012";1;"VLS3012HBX-4R7M";;;
+14;"C10";"C_0402_1005Metric";1;"C";;;
+15;"SW1";"SW_SPST_PTS810";1;"SW_Push";;;
+16;"D2";"LED_0603_1608Metric";1;"LED";;;

@@ -643,7 +643,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b2c79711-3110-4862-98b2-8a570c504387)
     )
-    (fp_text value "L" (at 0 1.17 90) (layer "F.Fab") hide
+    (fp_text value "2n" (at 0 1.17 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dbe08fb9-9324-4a9e-81f7-74c88737367e)
     )
@@ -1272,7 +1272,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/cc7135c8-f4ca-4243-852d-48570c83f673")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP7" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d8704357-c981-4252-a75f-e9fd3a92145a)
@@ -1911,7 +1911,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/06d047d5-cfda-41c3-868b-dadc358d88db")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP4" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e250544b-e534-4627-ad7b-a507ed0db4d9)
@@ -1944,7 +1944,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/2cce097e-8c0a-4690-a1cc-0a9f6ad3ce50")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP5" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3c6918ea-d934-4709-8f69-9841672a5e3d)
@@ -1977,7 +1977,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/6c9d9eec-0dfc-4797-b19e-c78276c48d43")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP2" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f1291cdd-c4f8-4cb0-86b3-d32a19569a5c)
@@ -2010,7 +2010,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/8daa52c2-a0d1-4a7f-8d30-feee73fa07af")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP1" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp de1a089f-ee45-4820-aae5-e68b746df010)
@@ -2043,7 +2043,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/fb70ac9c-ea0d-4a20-aedd-6137b992a114")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP3" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp cc52b142-eac3-410b-86ab-4f24fc211846)
@@ -2120,7 +2120,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/9a6e3494-c3dd-4d7d-bbc4-271422052afa")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP6" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b053ca49-7230-48b2-aa0a-399374941609)
@@ -2153,7 +2153,7 @@
     (property "Sheetfile" "File: esplog_hv.kicad_sch")
     (property "Sheetname" "")
     (path "/4fbb9a90-67c0-4629-a9e7-1086b14e7859")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "TP8" (at 0 1.448) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7a8420cd-c3b6-4797-9b9a-8382112758e7)
