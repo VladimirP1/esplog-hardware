@@ -1,6 +1,6 @@
 
 ### What is this
-These are boards for running the [esp-gyrologger](https://github.com/VladimirP1/esp-gyrologger) firmware. They contain an esp32-c3, a mems IMU and 3.3v a regulator.
+These are boards for running the [esp-gyrologger](https://github.com/VladimirP1/esp-gyrologger) firmware. They contain an esp32-c3, a mems IMU and 3.3v a regulator. Wi-Fi antenna is bad, but it works at low TX power.
 
 ### How the finished product look like
 This is how esplog_ldo and esplog_hv look like
